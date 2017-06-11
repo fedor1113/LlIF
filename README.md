@@ -22,5 +22,21 @@ All right, so why might anyone need this?
 
 Currently (as of June 2017), IMHO, there is no beautiful &quot;one-click&quot; solution that allows to play all IF games and adds file system support for them in Linux. You'll have to do some tweaking. However, this tiny script does all the trivial things. After using it on a Linux system an IF enthusiast won't have to do much. It becomes much easier to manage large collections of text-quests when you can open them in Gargoyle from the file manager.  The lack of file icons used to be a frustrating aspect of playing IF, too - but no longer)
 
+# Download
+See [Github Releases](https://github.com/fedor1113/LlIF/releases).
+
+# Installation
+To install simply run install.sh in a terminal - via
+```bash
+bash install.sh
+```
+or
+```bash
+./install.sh
+```
+You might need to add execution permissions. Then follow instructions on screen and answer questions.
+
+PS Obviously, you need to either clone this repo or download a release and unpack it first.
+
 # LICENSE
 The script itself (with appropriate helper files) is licensed under MIT (see LICENSE file). The icons are under GNU LGPL v3.0 (modifications to the original are described here and in the commits; see LICENSE file in the Icons subfolder).
