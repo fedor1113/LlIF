@@ -12,7 +12,7 @@
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-fictionbook.svg">
+   sodipodi:docname="IF.svg">
   <metadata
      id="metadata59">
     <rdf:RDF>
@@ -33,15 +33,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="799"
+     inkscape:window-width="833"
      inkscape:window-height="705"
      id="namedview57"
      showgrid="false"
-     inkscape:zoom="3.6875"
+     inkscape:zoom="3.69"
      inkscape:cx="32"
-     inkscape:cy="42.847458"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:cy="37.423729"
+     inkscape:window-x="254"
+     inkscape:window-y="231"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
@@ -86,53 +86,53 @@
   <g
      id="g13">
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="20"
        y="-33"
        x="35"
-       id="rect15" />
+       id="rect15"
+       opacity=".5" />
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="20"
        y="-29"
        x="35"
-       id="rect17" />
+       id="rect17"
+       opacity=".5" />
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="18"
        y="-25"
        x="35"
-       id="rect19" />
+       id="rect19"
+       opacity=".5" />
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="14"
        y="-21"
        x="35"
-       id="rect21" />
+       id="rect21"
+       opacity=".5" />
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="20"
        y="-17"
        x="35"
-       id="rect23" />
+       id="rect23"
+       opacity=".5" />
     <rect
-       opacity=".5"
        transform="scale(1,-1)"
        height="2"
        width="16"
        y="-13"
        x="35"
-       id="rect25" />
+       id="rect25"
+       opacity=".5" />
   </g>
   <g
      transform="translate(0,-1)"
@@ -232,11 +232,11 @@
   <path
      id="path3653-3-2"
      style="opacity:0.4"
-     d="m 37.420966,48.177966 -2.743,-2.727 6.171,-4.773 -6.171,-4.773 2.743,-2.727 9.257,7.5 -9.257,7.5 z"
+     d="m 37.420966,50.177966 -2.743,-2.727 6.171,-4.773 -6.171,-4.773 2.743,-2.727 9.257,7.5 -9.257,7.5 z"
      inkscape:connector-curvature="0" />
   <path
      id="path3651-7-2"
      style="opacity:0.4"
-     d="m 54.584743,49.771186 0,-3 -11,0 0,3 11,0 z"
+     d="m 54.584743,51.771186 0,-3 -11,0 0,3 11,0 z"
      inkscape:connector-curvature="0" />
 </svg>
