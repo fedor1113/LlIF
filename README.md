@@ -16,3 +16,6 @@ It attempts to install (if receives "yes" when asking) the following packages fr
 * bsd-games package (has e.g. adventure game)
 
 The artwork (icon for formats) is based on the icon for epubs from [Papirus icon theme for Linux](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme). The Zoom icon has a 4-point compass rose (with directions) and a big &quot;Z&quot; added to it. The formats icon has a command prompt symbol (&quot;>_&quot;) added to it.
+
+# LICENSE
+The script itself (and appropriate helper files) is licensed under MIT (see LICENSE file). The icons are under GNU LGPL v3.0 (modifications to the original are described here; see LICENSE file in the Icons subfolder).
