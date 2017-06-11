@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-t3vm-image">
+    <comment>TADS 3 game (interactive fiction) file format - game data</comment>
+    
+    <magic priority="50">
+        <match type="string" offset="0" value="T3-image\x0D\x0A\x1A"/>
+    </magic>
+    
+    <glob pattern="*.gam"/>
+    <glob pattern="*.t3"/>
+  </mime-type>
+</mime-info>
+
+ 

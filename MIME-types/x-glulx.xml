@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-glulx">
+    <comment>Glulx binary story file - game data (i.e. interactive fiction)</comment>
+    
+    <magic priority="50">
+        <match type="string" offset="0" value="Glul"/>
+    </magic>
+    
+    <glob pattern="*.ulx"/>
+    
+    <!-- Blorb file extensions packaged with Z-code  -->
+    <!-- <glob pattern="*.gblorb"/>
+    <glob pattern="*.glb"/> -->
+  </mime-type>
+</mime-info>
+

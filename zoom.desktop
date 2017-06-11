@@ -1,0 +1,15 @@
+  [Desktop Entry]
+  Encoding=UTF-8
+  Type=Application
+
+  Exec=zoom %u
+  Icon=Zoom.svg
+  Terminal=false
+  GenericName=Interactive Fiction interpreter
+  Comment=A player for Z-Code, TADS and HUGO stories or games (interactive fiction)
+
+  Name=Zoom
+
+  Categories=Game;Interactive fiction;
+  MimeType=application/x-blorb;application/x-zmachine
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-blorb">
+    <comment>Blorb package file for interactive fiction (it can contain such file formats as PNG, JPEG, AIFF, Ogg Vorbis, MOD, Z-code, Glulx)</comment>
+    
+    <magic priority="50">
+        <match type="string" offset="0" value="FORM">
+            <match type="string" offset="8" value="IFRS"/>
+        </match>
+    </magic>
+    
+    <glob pattern="*.blorb"/>
+    <glob pattern="*.blb"/>
+    
+    <glob pattern="*.gblorb"/>
+    <glob pattern="*.glb"/>
+    
+    <glob pattern="*.zblorb"/>
+    <glob pattern="*.zlb"/>
+  </mime-type>
+</mime-info>
+

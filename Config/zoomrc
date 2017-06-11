@@ -1,0 +1,27 @@
+# Standard settings - applies to all interpreters
+      # (Note, font 4 must always be fixed-pitch)
+      default "%s (%i.%.6s)"
+      {
+        interpreter 1
+        revision    Z
+      
+        font 1 "-*-helvetica-medium-r-*-*-16-*-*-*-*-*-*-*" roman
+        font 2 "-*-helvetica-bold-r-*-*-16-*-*-*-*-*-*-*"   bold
+        font 3 "-*-helvetica-medium-o-*-*-16-*-*-*-*-*-*-*" italic
+        font 4 "-*-courier-medium-r-*-*-16-*-*-*-*-*-*-*"   fixed
+        font 5 "-*-courier-bold-r-*-*-16-*-*-*-*-*-*-*"     fixed-bold
+        font 6 "-*-courier-medium-o-*-*-16-*-*-*-*-*-*-*"   fixed-italic
+        font 7 "-*-courier-bold-o-*-*-16-*-*-*-*-*-*-*"     fixed-bold-italic
+        font 8 "-*-helvetica-bold-o-*-*-16-*-*-*-*-*-*-*"   bold-italic
+        font 9 "font3"                                      symbolic
+      
+        colours (0,0,0), (255,0,0), (0,255,0), (255,255,0), (0,0,255),
+                (255,0,255), (0,255,255), (255,255,204),
+              # These are the colours provided by DOS interpreters
+              (187, 187, 187), (136, 136, 136), (68, 68, 68)
+
+        size 100, 50
+
+        gamedir "/home/fedor1113/Games/Interactive fiction"
+        savedir "/home/fedor1113/Games/Interactive fiction/saves"
+      }

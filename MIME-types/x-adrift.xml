@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-adrift">
+    <comment>Adrift story file - game data (i.e. interactive fiction)</comment>
+    
+    <magic priority="50">
+        <match type="string" offset="0" value="\x3C\x42\x3F\xC9\x6A\x87\xC2\xCF"/>
+    </magic>
+    
+    <glob pattern="*.taf"/>
+  </mime-type>
+</mime-info>
+
+ 
